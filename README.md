@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00B88B&center=true&vCenter=true&random=false&width=435&lines=Hi%20there%2C%20I'm%20[Yue]%20%F0%9F%91%8B;I'm%20a%20Python%20%26%20Lua%20Developer;I'm%20a%20Backend%20Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00B88B&center=true&vCenter=true&random=false&width=435&lines=Hi%20there%2C%20I'm%20Yue%20%F0%9F%91%8B;I'm%20a%20Python%20%26%20Lua%20Developer;I'm%20a%20Backend%20Specialist" alt="Typing SVG" />
   </a>
 </p>
 
@@ -8,10 +8,8 @@
 
 I'm a backend developer with a passion for building efficient, scalable, and resilient systems. I specialize in **Python** for complex applications and **Lua** for high-performance scripting and embedded logic.
 
-- 🔭 I’m currently working on [Your-Project-Name]([your-project-link]).
-- 🌱 I’m currently learning [a-new-technology-or-skill].
-- 💬 Ask me about: **Python**, **Lua**, **API Design**, or **Database Architecture**.
-- 📫 How to reach me: [your-email@example.com]
+- 🌱 I’m currently learning [C# and Game Developing].
+- 💬 You can ask me about: **Python**, **Lua**.
 
 ---
 
