@@ -6,10 +6,10 @@
 
 ## About Me
 
-I'm a backend developer with a passion for building efficient, scalable, and resilient systems. I specialize in **Python** for complex applications and **Lua** for high-performance scripting and embedded logic.
+I'm a junior lua developer with a passion for building efficient, scalable, and resilient systems. I specialize in **Python** for complex applications and **Lua** for high-performance scripting and embedded logic.
 
 - 🌱 I’m currently learning [C# and Game Developing].
-- 💬 You can ask me about: **Python**, **Lua**.
+- 💬 You can ask me about: **Python**, **Lua**, basic **C**.
 
 ---
 
@@ -21,7 +21,7 @@ Here are some of the technologies I work with:
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
   <a href="https://www.lua.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"></a>
   
-  <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
+  <!--<a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a> -->
   <a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></a>
   <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"></a>
   
