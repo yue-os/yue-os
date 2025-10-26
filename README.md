@@ -9,7 +9,7 @@
 I'm a junior lua developer with a passion for building efficient, scalable, and resilient systems. I specialize in **Python** for complex applications and **Lua** for high-performance scripting and embedded logic.
 
 - 🌱 I’m currently learning [C# and Game Developing].
-- 💬 You can ask me about: **Python**, **Lua**, basic **C**.
+- 💬 You can ask me about: **Python**, **Lua**, **C**.
 
 ---
 
