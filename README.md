@@ -39,8 +39,8 @@ Here are some of the technologies I work with:
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yue-os&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yue-os&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
