@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00B88B&center=true&vCenter=true&random=false&width=435&lines=Hi%20there%2C%20I'm%20[Your%20Name]%20%F0%9F%91%8B;I'm%20a%20Python%20%26%20Lua%20Developer;I'm%20a%20Backend%20Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00B88B&center=true&vCenter=true&random=false&width=435&lines=Hi%20there%2C%20I'm%20[Yue]%20%F0%9F%91%8B;I'm%20a%20Python%20%26%20Lua%20Developer;I'm%20a%20Backend%20Specialist" alt="Typing SVG" />
   </a>
 </p>
 
