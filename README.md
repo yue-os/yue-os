@@ -8,7 +8,7 @@
 
 I'm a junior lua developer with a passion for building efficient, scalable, and resilient systems. I specialize in **Python** for complex applications and **Lua** for high-performance scripting and embedded logic.
 
-- I’m currently learning [C# and Game Developing].
+- I’m currently learning [C#, Game Developing].
 - You can ask me about: **Python**, **Lua**, **C**.
 
 ---
@@ -39,7 +39,7 @@ Here are some of the technologies I work with:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yue-os&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yue-os&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Yue-OS GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yue-os&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
