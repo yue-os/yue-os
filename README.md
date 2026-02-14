@@ -1,4 +1,4 @@
-# Hi 👋, I'm Yue
+# Hi 👋, I'm Yuehan
 
 ### Developer focused on Game Development (Unity/Godot), Minecraft Modding (Java), and Backend Systems (C#/.NET). Passionate about automation and open-source utility tools. 
 
