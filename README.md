@@ -2,7 +2,7 @@
 
 ### Developer focused on Game Development (Unity/Godot), Minecraft Modding (Java), and Backend Systems (C#/.NET). Passionate about automation and open-source utility tools. 
 
-![Metrics](https://github.com/yue-os/yue-os/blob/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/yue-os/yue-os/main/github-metrics.svg)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yue-os" alt="yue-os" /></a> </p>
 
