@@ -155,10 +155,10 @@ A fast-paced turn-based fighting game where every move matters. Choose your char
 <div align="center">
 
 **I'm always interested in collaborating on:**
- 🎮 Game development projects
- 💻 Full-stack web applications
- 🛡️ Security & pentesting initiatives
- 🤖 Open-source contributions
+- 🎮 Game development projects
+- 💻 Full-stack web applications
+- 🛡️ Security & pentesting initiatives
+- 🤖 Open-source contributions
 
 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
 🌐 **Website:** [yue-os.github.io](https://yue-os.github.io)
