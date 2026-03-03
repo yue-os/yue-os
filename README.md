@@ -20,7 +20,7 @@
 
 **Full-Stack Developer | Game Developer | Cybersecurity Enthusiast**
 
-I'm a results-driven developer with **5+ years** of experience crafting scalable applications, immersive games, and secure systems. My passion lies in combining technical excellence with creative problem-solving to build solutions that make an impact.
+I'm a results-driven developer with **3+ years** of experience crafting scalable applications, immersive games, and secure systems. My passion lies in combining technical excellence with creative problem-solving to build solutions that make an impact.
 
 ### 🎯 What I Do
 - 🎮 **Game Development** - Creating engaging experiences with Unity and Godot, including Android game ports
