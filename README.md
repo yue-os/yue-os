@@ -1,9 +1,26 @@
 # 👋 Hi there, I'm Yuehan
 
-<div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Yue.han.png" alt="Your Image Badge" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/SECURITY-PROFILES-black?style=for-the-badge" alt="Security Profiles Header">
+</p>
 
+<p align="center">
+  <a href="https://tryhackme.com/p/3036440">
+    <img src="https://img.shields.io/badge/TryHackMe-3036440-EB303E?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
+  </a>
+  
+  <a href="https://play.picoctf.org/users/voltaire_01">
+    <img src="https://img.shields.io/badge/picoCTF-voltaire__01-F97316?style=for-the-badge&logo=picoctf&logoColor=white" alt="picoCTF">
+  </a>
+  
+  <a href="https://pwn.college/hacker/157229">
+    <img src="https://img.shields.io/badge/pwn.college-157229-2468F2?style=for-the-badge&logo=linux&logoColor=white" alt="pwn.college">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active_Hacker-green?style=flat-square" alt="Status">
+</p>
 <br />
 
 <div align="center">
