@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Yuehan
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZhb3E2N2lqMDIyMDNlZzl6YzZhNWE5YXk3aTFodzk2b3BnbG9uciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200.webp" width="400" alt="coding-gif" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Yue.han.png" alt="Your Image Badge" />
 </div>
 
 <br />
