@@ -177,7 +177,7 @@ A fast-paced turn-based fighting game where every move matters. Choose your char
 - 🛡️ Security & pentesting initiatives
 - 🤖 Open-source contributions
 
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
+📧 **Email:** [johnmarkcalimbo90@gmail.com](mailto:johnmarkcalimbo90@gmail.com)
 🌐 **Website:** [yue-os.github.io](https://yue-os.github.io)
 💬 **Discord:** 0xyue.dev
 
