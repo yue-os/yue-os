@@ -183,8 +183,6 @@ A fast-paced turn-based fighting game where every move matters. Use superpower a
 - 🎮 Game development projects
 - 🤖 Open-source contributions
 
-📧 **Email:** [johnmarkcalimbo90@gmail.com](mailto:johnmarkcalimbo90@gmail.com)  
-🌐 **Website:** [yue-os.github.io](https://yue-os.github.io)  
 💬 **Discord:** 0xyue.dev  
 
 </div>
